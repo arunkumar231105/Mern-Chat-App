@@ -32,7 +32,7 @@ const Homepage = () => {
   height="80px" // 🟢 optional: height dena helpful hai alignment ke liye
 >
   <Text fontSize="4xl" fontFamily="Work sans" color="black">
-  Chatter-Box
+  Talk-a-Tive
   </Text> 
 </Box>
 
