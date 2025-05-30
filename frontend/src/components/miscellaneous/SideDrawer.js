@@ -138,7 +138,7 @@ const SideDrawer = () => {
 
             >
                 <Tooltip
-                    label="Search Users to chat"
+                    label="Search Users to chat" 
                     hasArrow placement="bottom-end"
                 >
                     <Button variant="ghost" onClick={onOpen}> 
